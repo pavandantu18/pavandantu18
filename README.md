@@ -46,6 +46,9 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/pavandantu18/pavandantu18/output/snake.svg" alt="Snake animation" />
+
+
 <!-- =========================
      WHAT I'M BUILDING
 ========================= -->
@@ -101,6 +104,15 @@
 <!-- =========================
      ICON GRID
 ========================= -->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavandantu18/pavandantu18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavandantu18/pavandantu18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pavandantu18/pavandantu18/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,python,mongodb,mysql,postgres,aws,docker,kubernetes,jenkins,redis,kafka,typescript,tailwind,git" />
