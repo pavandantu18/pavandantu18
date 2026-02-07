@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#38bdf8;">Pavan Kumar Reddy Dantu</span></h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; Builder
+  🚀 Full Stack Developer
 </h3>
 
 <p align="center">
