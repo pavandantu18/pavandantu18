@@ -22,16 +22,6 @@
 ---
 
 <!-- =========================
-     TROPHIES
-========================= -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavandantu18&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- =========================
      ABOUT ME
 ========================= -->
 
@@ -136,22 +126,6 @@
 <a href="https://notes-app-a535.onrender.com/" target="_blank">
 https://notes-app-a535.onrender.com/
 </a>
-
----
-
-<!-- =========================
-     STATS
-========================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavandantu18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavandantu18&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
