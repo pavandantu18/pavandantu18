@@ -74,7 +74,7 @@ I’m a **Full Stack Developer** who enjoys building complete, end-to-end applic
 
 ## 🛠️ What I’m Currently Working On
 
-- Building full-stack applications using **React + Node.js**
+- Building full-stack applications using **React + Spring Boot**
 - Designing and consuming **RESTful APIs**
 - Deploying cloud-ready apps using **Docker, Kubernetes, and AWS**
 - Creating polished UIs with **modern CSS and component-based design**
