@@ -46,6 +46,19 @@ I’m a **Full Stack Developer** who enjoys building complete, end-to-end applic
 ---
 
 <!-- =========================
+     EDUCATION
+========================= -->
+
+## 🎓 Education
+
+**Master of Science in Computer Science**  
+🏫 *University of North Carolina at Charlotte*  
+📍 United States  
+⭐ **GPA:** 4.0 / 4.0  
+ 
+---
+
+<!-- =========================
      CONTRIBUTION VISUAL
 ========================= -->
 
@@ -125,23 +138,15 @@ https://notes-app-a535.onrender.com/
 ---
 
 <!-- =========================
-     CONNECT
+     CERTIFICATIONS
 ========================= -->
 
-## 🤝 Let’s Connect
+## 📜 Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavandantu18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
-
+- ☁️ **AWS Certified Developer – Associate**  
+  - Expertise in developing, deploying, and debugging cloud-based applications on AWS  
+  - Hands-on experience with **EC2, S3, Lambda, DynamoDB, RDS, CloudWatch, SQS, SNS**  
+  - Strong understanding of **IAM, application security, monitoring, and CI/CD integration**  
+  - Experience building and deploying scalable, fault-tolerant AWS-native services
+ 
 ---
-
-<!-- =========================
-     FOOTER
-========================= -->
-
-<p align="center">
-  🚀 <b>Build.</b> Learn. Ship.
-</p>
