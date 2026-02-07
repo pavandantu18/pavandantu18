@@ -36,7 +36,7 @@
 
 I’m a **Full Stack Developer** who enjoys building complete, end-to-end applications — from designing clean user interfaces to architecting scalable backend systems.
 
-- 💻 Strong focus on **React, Node.js, and modern web architectures**
+- 💻 Strong focus on **React, Spring Boot, Node.js, and modern web architectures**
 - 🔥 Passionate about **shipping real products**, not just demos
 - ⚙️ Comfortable working across **frontend, backend, DevOps, and cloud**
 - 🚀 Always learning, experimenting, and improving my craft
