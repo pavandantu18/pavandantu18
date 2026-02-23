@@ -59,16 +59,6 @@ I’m a **Full Stack Developer** who enjoys building complete, end-to-end applic
 ---
 
 <!-- =========================
-     CONTRIBUTION VISUAL
-========================= -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pavandantu18/pavandantu18/output/snake.svg" alt="Contribution snake animation" />
-</p>
-
----
-
-<!-- =========================
      CURRENT FOCUS
 ========================= -->
 
