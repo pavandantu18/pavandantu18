@@ -105,29 +105,6 @@ I’m a **Full Stack Developer** who enjoys building complete, end-to-end applic
 ---
 
 <!-- =========================
-     PROJECTS
-========================= -->
-
-## 🚀 Featured Project
-
-### 📝 Fullstack Notes App
-
-A modern **full-stack Notes application** built with a clean UI and scalable backend.
-
-- ⚛️ React frontend
-- 🌐 Node.js & Express backend
-- 🔄 Full CRUD functionality
-- ✨ Modals, toasts, animations, and smooth UX
-- ☁️ Deployed on Render
-
-🔗 **Live Demo:**  
-<a href="https://notes-app-a535.onrender.com/" target="_blank">
-https://notes-app-a535.onrender.com/
-</a>
-
----
-
-<!-- =========================
      CERTIFICATIONS
 ========================= -->
 
