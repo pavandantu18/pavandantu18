@@ -16,10 +16,6 @@
   <a href="mailto:pavankumarreddydantu@gmail.com">
     📫 Email
   </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/pavandantu18/" target="_blank">
-    💼 LinkedIn
-  </a>
 </p>
 
 <p align="center">
