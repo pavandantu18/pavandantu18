@@ -8,11 +8,6 @@
   🚀 Full Stack Developer
 </h3>
 
-  &nbsp;•&nbsp;
-  <a href="mailto:pavankumarreddydantu@gmail.com">
-    📫 Email
-  </a>
-</p>
 
 <p align="center">
   <i>Building clean interfaces, scalable backends, and things that actually work.</i>
