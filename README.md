@@ -8,10 +8,6 @@
   🚀 Full Stack Developer
 </h3>
 
-<p align="center">
-  <a href="https://pavandantu-portfolio.vercel.app/" target="_blank">
-    🌐 Portfolio
-  </a>
   &nbsp;•&nbsp;
   <a href="mailto:pavankumarreddydantu@gmail.com">
     📫 Email
